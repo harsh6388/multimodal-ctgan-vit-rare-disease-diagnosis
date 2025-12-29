@@ -38,20 +38,19 @@ Researchers may contact the author for access or use publicly available lung can
 ## 📸 Project Screenshots
 
 ### 🔹 Multimodal Model Architecture
-![Model Architecture](screenshots/1.png)
+![Model Architecture](screenshotsscreenshots/1.png)
 
-![Model Architecture](screenshots/2.png)
+![Model Architecture](screenshotsscreenshots/2.png)
 
 
-![Model Architecture](screenshots/3.png)
+![Model Architecture](screenshotsscreenshots/3.png)
 
-![Model Architecture](screenshots/4.png)
+![Model Architecture](screenshotsscreenshots/4.png)
 
-### 🔹 Sensitivity Improvement (80% → 89%)
-![Sensitivity Improvement](screenshots/sensitivity_comparison.png)
+### 🔹 Resulta and Evaluation
+![Sensitivity Improvement](screenshotsscreenshots/Evalutation1.png)
 
-### 🔹 Fusion Probability Model Output
-![Fusion Output](screenshots/fusion_output.png)
+![Fusion Output](screenshotsscreenshots/Evaluation2.png)
 
 
 
