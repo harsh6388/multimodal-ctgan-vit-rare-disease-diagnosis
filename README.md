@@ -35,6 +35,25 @@ Pretrained model weights are not included due to size constraints.
 Due to privacy and size constraints, the dataset is not uploaded to GitHub.
 Researchers may contact the author for access or use publicly available lung cancer datasets.
 
+## 📸 Project Screenshots
+
+### 🔹 Multimodal Model Architecture
+![Model Architecture](screenshots/1.png)
+
+![Model Architecture](screenshots/2.png)
+
+
+![Model Architecture](screenshots/3.png)
+
+![Model Architecture](screenshots/4.png)
+
+### 🔹 Sensitivity Improvement (80% → 89%)
+![Sensitivity Improvement](screenshots/sensitivity_comparison.png)
+
+### 🔹 Fusion Probability Model Output
+![Fusion Output](screenshots/fusion_output.png)
+
+
 
 
 
