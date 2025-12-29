@@ -18,6 +18,10 @@ The model is evaluated on Lung Cancer data.
 - CTGAN generates high-quality synthetic tabular data
 - Vision Transformer extracts global image features
 - Fusion Probability Model combines both modalities
+  
+## Models
+Pretrained model weights are not included due to size constraints.
+
 
 ## 📊 Results
 | Metric | Before | After |
