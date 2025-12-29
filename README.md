@@ -28,6 +28,11 @@ The model is evaluated on Lung Cancer data.
 - Tabular clinical features
 - Lung CT scan images
 *(Dataset not shared due to privacy concerns)*
+Due to privacy and size constraints, the dataset is not uploaded to GitHub.
+Researchers may contact the author for access or use publicly available lung cancer datasets.
+
+
+
 
 ## ⚙️ Installation
 ```bash
