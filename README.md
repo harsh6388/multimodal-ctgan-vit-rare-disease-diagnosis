@@ -47,8 +47,8 @@ Researchers may contact the author for access or use publicly available lung can
 
 ![Model Architecture](screenshotsscreenshots/4.png)
 
-### 🔹 Resulta and Evaluation
-![Sensitivity Improvement](screenshotsscreenshots/Evalutation1.png)
+### 🔹 Results and Evaluation
+![Sensitivity Improvement](screenshotsscreenshots/Evalutation.png)
 
 ![Fusion Output](screenshotsscreenshots/Evaluation2.png)
 
