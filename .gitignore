@@ -1,0 +1,5 @@
+datasets/
+data/ large 
+ctsccans/normal/patients
+vit_lung_cancer.pth 
+lung_cancer_model.pkl 
